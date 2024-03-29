@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix4">
+    <file>strip.png</file>
+    <file>strip.png</file>
+  </qresource>
+</RCC>

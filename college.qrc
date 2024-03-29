@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix2">
+    <file>college.jfif</file>
+  </qresource>
+</RCC>
